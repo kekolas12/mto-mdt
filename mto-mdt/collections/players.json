@@ -1,0 +1,36 @@
+[
+    {},
+    {},
+    {
+        "citizenid": "XEA20970",
+        "tags": [],
+        "licences": [],
+        "note": "",
+        "record": 2
+    },
+    {
+        "licences": [
+            {
+                "label": "B Sınıf Ehliyet",
+                "type": "driver_license"
+            },
+            {
+                "label": "Silah Lisansı",
+                "type": "weaponlicense"
+            }
+        ],
+        "tags": [
+            "Yalancı tanıklık"
+        ],
+        "citizenid": "ICQ87561",
+        "note": "",
+        "record": 3
+    },
+    {
+        "citizenid": "FIN49310",
+        "tags": [],
+        "licences": [],
+        "note": "",
+        "record": 2
+    }
+]

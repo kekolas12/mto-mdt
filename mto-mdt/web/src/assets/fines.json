@@ -1,0 +1,1062 @@
+{
+    "infractions": [
+        {
+            "title": "Kırmızı ışık ihlali",
+            "months": "0",
+            "points": "0",
+            "fine": "500"
+        },
+        {
+            "title": "Dur emrine uymama",
+            "months": "0",
+            "points": "0",
+            "fine": "500"
+        },
+        {
+            "title": "Hız sınır ihalali %5",
+            "months": "0",
+            "points": "0",
+            "fine": "500"
+        },
+        {
+            "title": "Hız sınır ihalali %10",
+            "months": "0",
+            "points": "0",
+            "fine": "750"
+        },
+        {
+            "title": "Hız sınır ihalali %20",
+            "months": "0",
+            "points": "0",
+            "fine": "1000"
+        },
+        {
+            "title": "Hız sınır ihalali %30+",
+            "months": "0",
+            "points": "1",
+            "fine": "1250"
+        },
+        {
+            "title": "Yola Çıkmaya Elverişli Olmayan Araç",
+            "months": "0",
+            "points": "0",
+            "fine": "500"
+        },
+        {
+            "title": "Dikkatsiz Sürüş",
+            "months": "0",
+            "points": "0",
+            "fine": "750"
+        },
+        {
+            "title": "Yetkisiz U Dönüşü",
+            "months": "0",
+            "points": "0",
+            "fine": "200"
+        },
+        {
+            "title": "Acil Durum Hizmetlerine yol vermemek",
+            "months": "0",
+            "points": "2",
+            "fine": "750"
+        },
+        {
+            "title": "Geçiş Hakkı Vermemek",
+            "months": "0",
+            "points": "0",
+            "fine": "450"
+        },
+        {
+            "title": "Sinyal Verememe",
+            "months": "0",
+            "points": "0",
+            "fine": "50"
+        },
+        {
+            "title": "Hasarlı/Kırık Arka Far",
+            "months": "0",
+            "points": "0",
+            "fine": "50"
+        },
+        {
+            "title": "Hasarlı/Kırık Ön Far",
+            "months": "0",
+            "points": "0",
+            "fine": "50"
+        },
+        {
+            "title": "Yasadışı Park",
+            "months": "0",
+            "points": "0",
+            "fine": "200"
+        },
+        {
+            "title": "Uygunsuz/Güvensiz Dönüş",
+            "months": "0",
+            "points": "0",
+            "fine": "100"
+        },
+        {
+            "title": "Uygunsuz/Eksik Plaka",
+            "months": "0",
+            "points": "0",
+            "fine": "100"
+        },
+        {
+            "title": "Yanlış Yolculuk",
+            "months": "0",
+            "points": "2",
+            "fine": "250"
+        },
+        {
+            "title": "Uygunsuz/Yasadışı Geçiş",
+            "months": "0",
+            "points": "0",
+            "fine": "150"
+        },
+        {
+            "title": "Acil Durum Sirenlerinin Kullanımı",
+            "months": "0",
+            "points": "0",
+            "fine": "500"
+        },
+        {
+            "title": "Farlar Olmadan Sürüş",
+            "months": "0",
+            "points": "0",
+            "fine": "150"
+        },
+        {
+            "title": "Obstructing Traffic",
+            "months": "0",
+            "points": "0",
+            "fine": "250"
+        },
+        {
+            "title": "Trafiği Engellemek",
+            "months": "0",
+            "points": "0",
+            "fine": "500"
+        },
+        {
+            "title": "Kasksız Motosiklet Kullanmak",
+            "months": "0",
+            "points": "0",
+            "fine": "100"
+        },
+        {
+            "title": "Uygunsuz Donanımlı Araç",
+            "months": "0",
+            "points": "0",
+            "fine": "250"
+        },
+        {
+            "title": "Araç Kullanırken Telefon Kullanmak",
+            "months": "0",
+            "points": "2",
+            "fine": "150"
+        },
+        {
+            "title": "Takip Mesafesine Uymama - 1 Araç",
+            "months": "0",
+            "points": "0",
+            "fine": "200"
+        },
+        {
+            "title": "Uygunsuz Şerit Değişimi",
+            "months": "0",
+            "points": "0",
+            "fine": "100"
+        },
+        {
+            "title": "Araç Kullanırken Telefon İle Konuşma",
+            "months": "0",
+            "points": "2",
+            "fine": "500"
+        },
+        {
+            "title": "Ekstra",
+            "months": "0",
+            "points": "0",
+            "fine": "100"
+        }
+    ],
+    "misdemeanors": [
+        {
+            "months": "15",
+            "title": "Ateşli Silahın/Silahın Kamuya Açık Alanda İhmalen Deşarj Edilmesi",
+            "fine": "1000",
+            "points": "250"
+        },
+        {
+            "months": "15",
+            "title": "Tehlike Yaratma",
+            "fine": "1000",
+            "points": "200"
+        },
+        { "months": "15", "title": "Assault", "fine": "1500", "points": "0" },
+        {
+            "months": "10",
+            "title": "Fiziksel Zarar Verme",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "20",
+            "title": "Aile İçi Şiddet",
+            "fine": "1500",
+            "points": "0"
+        },
+        {
+            "months": "50",
+            "title": "Mahkemeye itaatsizlik",
+            "fine": "4000",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Çalıntı Mal Bulundurmak",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "20",
+            "title": "Yardım ve Yataklık",
+            "fine": "1500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Araç Hırsızlığına Teşebbüs",
+            "fine": "1500",
+            "points": "0"
+        },
+        {
+            "months": "20",
+            "title": "Vur Kaç Yaralanma Yok",
+            "fine": "2000",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Kolluk Kuvvetlerinden Kaçma/Sakınma (Yaya)",
+            "fine": "1500",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Kara Para Aklama",
+            "fine": "2000",
+            "points": "0"
+        },
+        { "months": "10", "title": "Gambling", "fine": "1000", "points": "0" },
+        {
+            "months": "15",
+            "title": "Fuhuş",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Sahte Kimlik Tespiti",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Sahte Tutuklama",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Sahte Kişilik",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "İzinsiz Giriş",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Haneye tecavüz",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "911'i kötüye kullanımı",
+            "fine": "350",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Uygunsuz Teşhir",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Barındırma veya Gizleme",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Ruhsatsız Bir İşletmenin Yasa Dışı Faaliyeti",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Sahte İhbar",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Reşit Olmayan Bir Kişiye Alkol Satmak veya Sağlamak",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Reşit Olmayan Bir Kişinin Alkol Bulundurması",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Ruhsatsız Alkol Satışı",
+            "fine": "350",
+            "points": "0"
+        },
+        {
+            "months": "20",
+            "title": "İkinci Sınıf Kontrollü Maddelerin Yasadışı Bulundurulması",
+            "fine": "1500",
+            "points": "0"
+        },
+        {
+            "months": "5",
+            "title": "Yasa Dışı Uyuşturucu Madde Bulundurma",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Dikkatsiz Sürüş",
+            "fine": "1500",
+            "points": "5"
+        },
+        {
+            "months": "10",
+            "title": "Çalıntı Araç Kullanımı",
+            "fine": "1250",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Sahte Para Bulundurma",
+            "fine": "1250",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Kamu Malına Zarar Verme",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Özel Mülkiyete Verilen Zarar",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Suç Niyetiyle Silah Bulundurma",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Yasadışı Kaçak Mal Bulundurma",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "5",
+            "title": "Yasal Bir Emre İtaat Etmeme",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "5",
+            "title": "Ateşli Silahın Yasadışı Olarak Markalanması",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Yüzdürme Cihazından Avlanma",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "15",
+            "title": "Değerli Eşya Bulundurma",
+            "fine": "1250",
+            "points": "0"
+        },
+        { "months": "5", "title": "Vandalism", "fine": "500", "points": "0" },
+        {
+            "months": "10",
+            "title": "CDS satışı",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Silah Ruhsatı Olmadan Ateşli Silah Bulundurma",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Ruhsatsız Ateşli Silah Bulundurmak",
+            "fine": "1000",
+            "points": "0"
+        },
+        {
+            "months": "25",
+            "title": "İkinci Sınıf Olmayan Ateşli Silahın Yasadışı Satışı/Devri",
+            "fine": "2000",
+            "points": "0"
+        },
+        {
+            "months": "0",
+            "title": "Gizli Silah Hakkında Bilgi Verilmemesi",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "5",
+            "title": "Geçerli Sürücü Belgesi Olmadan Motorlu Araç Kullanmak",
+            "fine": "750",
+            "points": "2"
+        },
+        {
+            "months": "10",
+            "title": "Tutuklamaya Direnme",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Kurallara Aykırı Davranış",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Huzuru Bozmak",
+            "fine": "750",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Aile İçi Rahatsızlık",
+            "fine": "750",
+            "points": "0"
+        },
+        { "months": "5", "title": "Taciz", "fine": "1000", "points": "0" },
+        { "months": "0", "title": "Aylaklık", "fine": "500", "points": "0" },
+        { "months": "0", "title": "Jay Yürüyüş", "fine": "500", "points": "0" },
+        {
+            "months": "10",
+            "title": "Devlete Karşı Kabahat İşlemek İçin Komplo Kurmak",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "0",
+            "title": "Alenen Sarhoşluk",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "5",
+            "title": "Kimlik Tespitinde Başarısızlık",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Avcılık Yasalarına Uyulmaması",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "5",
+            "title": "Yasadışı Toplanma",
+            "fine": "500",
+            "points": "0"
+        },
+        {
+            "months": "10",
+            "title": "Para Cezası Ödememe",
+            "fine": "1000",
+            "points": "0"
+        }
+    ],
+    "felonies": [
+        { "title": "Torture", "months": "35", "points": "0", "fine": "10000" },
+        {
+            "title": "Şantaj",
+            "months": "10",
+            "points": "0",
+            "fine": "100"
+        },
+        {
+            "title": "Uçak/Helikopter Kaçırma",
+            "months": "10",
+            "points": "0",
+            "fine": "1000"
+        },
+        {
+            "title": "Yıkıcı veya Yakıcı Cihaz Bulundurma",
+            "months": "20",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Motorlu Araçtan Yasadışı Ateşli Silah Kullanımı",
+            "months": "15",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Silahlı Banka Soygunu",
+            "months": "35",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "Rehin Alma",
+            "months": "20",
+            "points": "0",
+            "fine": "1250"
+        },
+        { "title": "Takip", "months": "10", "points": "0", "fine": "1000" },
+        {
+            "title": "Mahkemeye itaatsizlik",
+            "months": "100",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Yalancı şahitlik",
+            "months": "15",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Tanık Değiştirme",
+            "months": "15",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Mahkeme Celbine Uyulmaması",
+            "months": "15",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Bir Tanık, Mağdur veya Muhbire Karşı Misilleme Yapmak",
+            "months": "15",
+            "points": "0",
+            "fine": "1000"
+        },
+        {
+            "title": "Bir Yargıca/Hakime Karşı Yalan İddia veya İftira Yoluyla Misilleme Yapmak",
+            "months": "15",
+            "points": "0",
+            "fine": "1000"
+        },
+        {
+            "title": "Büyük Jüri veya Mahkeme Önünde Yanlış Beyanda Bulunma",
+            "months": "15",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Kovuşturmadan Kaçmak veya İfade Vermek İçin Kaçış",
+            "months": "25",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Şartlı Tahliye/Tahliye İhlali",
+            "months": "30",
+            "points": "0",
+            "fine": "1500"
+        },
+        { "title": "Şantaj", "months": "10", "points": "0", "fine": "750" },
+        { "title": "Gasp", "months": "15", "points": "0", "fine": "1250" },
+        {
+            "title": "Yolsuzluk",
+            "months": "15",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "Sahte Para Bulundurma",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Gizli Bilgilerin/Belgelerin Açıklanması",
+            "months": "15",
+            "points": "0",
+            "fine": "2000"
+        },
+        {
+            "title": "Dini Mülkiyete Zarar Verme",
+            "months": "10",
+            "points": "0",
+            "fine": "1200"
+        },
+        {
+            "title": "Adaletin Engellenmesi",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Kundakçılık",
+            "months": "20",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Devlet Belgelerinin/Bilgilerinin Yok Edilmesi",
+            "months": "20",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Suç İşlemek İçin Komplo Kurmak",
+            "months": "15",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Trafik Amaçlı Silah Stoklama 5 - 10",
+            "months": "20",
+            "points": "0",
+            "fine": "1750"
+        },
+        {
+            "title": "Trafik Niyetiyle Silah Stoklama 20+",
+            "months": "999999",
+            "points": "0",
+            "fine": "3000"
+        },
+        {
+            "title": "Hapisten Kaçış",
+            "months": "500",
+            "points": "0",
+            "fine": "3000"
+        },
+        {
+            "title": "Terör Tehdidi",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Terör",
+            "months": "999999",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Violation of bail",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Treason - POTENTIAL DEATH SENTENCE",
+            "months": "999999",
+            "points": "0",
+            "fine": "3000"
+        },
+        {
+            "title": "Failure to Comply and Relinquish to a Seizure Warrant",
+            "months": "200",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Improper Entry by an Alien",
+            "months": "100",
+            "points": "0",
+            "fine": "3000"
+        },
+        {
+            "title": "Tax Evasion",
+            "months": "50",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "1st Degree Murder of a Peace Officer",
+            "months": "999999",
+            "points": "0",
+            "fine": "10000"
+        },
+        {
+            "title": "Attempted Murder of a Peace Officer",
+            "months": "30",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "1st Degree Felony Murder",
+            "months": "999999",
+            "points": "0",
+            "fine": "10000"
+        },
+        {
+            "title": "Attempted Murder",
+            "months": "25",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Kidnapping",
+            "months": "15",
+            "points": "0",
+            "fine": "2000"
+        },
+        {
+            "title": "Aggravated Armed Robbery",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Armed Bank Robbery",
+            "months": "20",
+            "points": "0",
+            "fine": "2750"
+        },
+        {
+            "title": "Grand Theft Auto",
+            "months": "10",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "2nd Degree Murder of a Peace Officer",
+            "months": "999999",
+            "points": "0",
+            "fine": "15000"
+        },
+        {
+            "title": "2nd Degree Murder",
+            "months": "999999",
+            "points": "0",
+            "fine": "10000"
+        },
+        {
+            "title": "Possession of weed  w/ Intent to Traffic 10-19",
+            "months": "5",
+            "points": "0",
+            "fine": "1000"
+        },
+        {
+            "title": "Possession of weed  w/ Intent to Traffic 20-59",
+            "months": "10",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Possession of weed  w/ Intent to Traffic 60-119",
+            "months": "10",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Possession of weed  w/ Intent to Traffic 12-199",
+            "months": "15",
+            "points": "0",
+            "fine": "1750"
+        },
+        {
+            "title": "Possession of Cocaine  w/ Intent to Traffic 1-29",
+            "months": "10",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Possession of Cocaine  w/ Intent to Traffic 30-59",
+            "months": "20",
+            "points": "0",
+            "fine": "1750"
+        },
+        {
+            "title": "Possession of Cocaine  w/ Intent to Traffic 60-119",
+            "months": "20",
+            "points": "0",
+            "fine": "2000"
+        },
+        {
+            "title": "Possession of Cocaine  w/ Intent to Traffic 120-199",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Drug Cultivation/Manufacturing",
+            "months": "25",
+            "points": "0",
+            "fine": "3000"
+        },
+        {
+            "title": "Drug Trafficking 200 - 350",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Drug Trafficking 350 - 600",
+            "months": "20",
+            "points": "0",
+            "fine": "3000"
+        },
+        {
+            "title": "Drug Trafficking 600+",
+            "months": "999999",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Manslaughter",
+            "months": "999999",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Negligent Homicide",
+            "months": "999999",
+            "points": "0",
+            "fine": "5500"
+        },
+        {
+            "title": "Vehicular Manslaughter",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Attempted Kidnapping",
+            "months": "15",
+            "points": "0",
+            "fine": "1750"
+        },
+        {
+            "title": "Felonious Restraint",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        { "title": "Robbery", "months": "15", "points": "0", "fine": "2500" },
+        {
+            "title": "Animal Cruelty",
+            "months": "15",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Assault On Public Servant",
+            "months": "10",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Assault w/ Deadly Weapon",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Criminal Possession of a Government Issued Firearm",
+            "months": "20",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Criminal Possession of a Government Issued Taser",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Criminal Possession of Government Issued Equipment",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Gang Related Shooting",
+            "months": "25",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "Embezzlement",
+            "months": "10",
+            "points": "0",
+            "fine": "2500"
+        },
+        {
+            "title": "Possession of a Stolen Government Vehicle",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        { "title": "Poaching", "months": "15", "points": "0", "fine": "1500" },
+        {
+            "title": "Poss. of a Class 1 Illegal Firearm",
+            "months": "10",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Poss. of a Class 2 Illegal Firearm",
+            "months": "20",
+            "points": "0",
+            "fine": "2000"
+        },
+        {
+            "title": "Poss. of a Class 3 Illegal Firearm",
+            "months": "35",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "Illegal Sale/Transfer of Illegal Weapons",
+            "months": "30",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "Manufacturing of Illegal Weapons",
+            "months": "999999",
+            "points": "0",
+            "fine": "5000"
+        },
+        {
+            "title": "Poss. of Firearm by a Convicted Violent Felon",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Driving Under The Influence",
+            "months": "10",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Hit and Run with Injuries",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Felony Evading Law Enforcement (Vehicle)",
+            "months": "15",
+            "points": "0",
+            "fine": "2000"
+        },
+        {
+            "title": "Felony Evading (w/ Injury/Death) (Vehicle)",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Attempted or Unarmed Robbery",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        {
+            "title": "Attempted Bribery",
+            "months": "15",
+            "points": "0",
+            "fine": "1000"
+        },
+        { "title": "Escape", "months": "15", "points": "0", "fine": "1500" },
+        { "title": "Rioting", "months": "10", "points": "0", "fine": "1000" },
+        {
+            "title": "Felonious Trespassing",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        },
+        { "title": "Smuggling", "months": "15", "points": "0", "fine": "1000" },
+        {
+            "title": "Conspiracy to Commit State Felony",
+            "months": "10",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Gang Enhancement",
+            "months": "15",
+            "points": "0",
+            "fine": "1200"
+        },
+        {
+            "title": "Illegal Street Racing Participation",
+            "months": "15",
+            "points": "3",
+            "fine": "1250"
+        },
+        {
+            "title": "Unauthorised Practice of Law",
+            "months": "15",
+            "points": "0",
+            "fine": "1000"
+        },
+        { "title": "Joyriding", "months": "10", "points": "0", "fine": "1000" },
+        {
+            "title": "Grand Larceny",
+            "months": "25",
+            "points": "0",
+            "fine": "3500"
+        },
+        {
+            "title": "Failure to follow Aviation Guidelines",
+            "months": "15",
+            "points": "0",
+            "fine": "1250"
+        },
+        {
+            "title": "Operation of an Aircraft without a licence",
+            "months": "15",
+            "points": "0",
+            "fine": "1500"
+        }
+    ]
+}
